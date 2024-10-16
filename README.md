@@ -5,6 +5,8 @@
 - check repos / git
 - live server
 - formatting
+- git config --global user.name 'Maxi Meyer'
+- git config --global user.email '<me@example.com>'
 
 ### Inhalt
 
