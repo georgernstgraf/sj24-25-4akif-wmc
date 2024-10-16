@@ -7,6 +7,7 @@
 - formatting
 - git config --global user.name 'Maxi Meyer'
 - git config --global user.email '<me@example.com>'
+- Issue referenzieren in commit-message zB. #1
 
 ### Inhalt
 
