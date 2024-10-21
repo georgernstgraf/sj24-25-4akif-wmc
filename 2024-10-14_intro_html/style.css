@@ -1,0 +1,15 @@
+* {
+    border: 1px solid red;
+}
+
+div {
+    color: blue;
+}
+
+.meine-klasse {
+    color: rgb(187, 25, 237);
+}
+
+#heading2 {
+    font-size: xx-large;
+}
