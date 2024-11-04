@@ -1,5 +1,11 @@
 # sj24-25-3akif-wmc
 
+## 2024-10-21
+
+- haben wir css diner gemacht?
+- plf?
+- flexbox
+
 ## 2024-10-16
 
 - check repos / git
