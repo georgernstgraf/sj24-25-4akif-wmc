@@ -2,7 +2,11 @@
 
 ## 2024-10-21
 
+- Ordnung und Ordner-Namen im Repo
 - haben wir css diner gemacht?
+- <a> und <img> tags -> springen im Dokument
+- listen ul ol dl
+- Dateiname .html
 - plf?
 - flexbox
 
