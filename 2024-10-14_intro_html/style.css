@@ -13,3 +13,13 @@ div {
 #heading2 {
     font-size: xx-large;
 }
+
+
+div {
+    /* color: blue; */
+    color: green;
+    font-size: 7em;
+    font-style: italic;
+    color: red;
+    font-family: revert;
+}
