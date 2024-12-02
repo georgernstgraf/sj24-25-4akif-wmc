@@ -1,5 +1,9 @@
 # sj24-25-3akif-wmc
 
+## 2024-12-02
+
+HÜ: Pulse Webseite nachbauen bis 16.12.
+
 ## 2024-10-21
 
 - Ordnung und Ordner-Namen im Repo

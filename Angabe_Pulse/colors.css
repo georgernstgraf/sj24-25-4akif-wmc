@@ -8,6 +8,6 @@
 }
 
 body {
-    color: var(--color-dark);
-    background: var(--color-background);
+    color: var(--pulse-color-dark);
+    background: var(--pulse-color-page-background);
 }
