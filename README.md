@@ -1,8 +1,28 @@
 # sj24-25-3akif-wmc
 
-## 2024-12-02
+## Github Abgaben
 
-HÜ: Pulse Webseite nachbauen bis 16.12.
+Classromm: <https://classroom.github.com/a/3GIL8d89>
+
+- "erste Website"
+- "pulse"
+
+Bis zum 11.Jänner 23:59
+
+## Beurteilungstage 13. und 14. Jänner
+
+Abgabegespräche Thema Pulse Website sowie "erste website"
+
+### 13 jänner
+
+hattinger, garcia, hahna, simons, zhu, omari, reindl
+dawoud, helli, prinz weghuber, peker mambetaliva, wieneritsch
+
+### 14 jänner
+
+dzt. noch keine Meldungen
+
+## 2024-12-02
 
 ## 2024-10-21
 
