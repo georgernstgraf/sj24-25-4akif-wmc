@@ -1,0 +1,8 @@
+body {
+    background-color: beige;
+    color: darkblue;
+}
+
+h1#ichbins {
+    text-transform: uppercase;
+}
