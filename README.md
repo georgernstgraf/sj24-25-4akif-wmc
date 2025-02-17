@@ -1,61 +1,18 @@
-# sj24-25-3akif-wmc
+# WMC 4AKIF Sommersemester 2425
 
-## Github Abgaben
+## PLÜ 3. Juni / Abgabe: 31.5.2025
 
-Classromm: <https://classroom.github.com/a/3GIL8d89>
+## 2025-02-17
 
-- "erste Website"
-- "pulse"
+- Funktionen in JS
+- **HÜ**: Website: Primzahlentester
 
-Bis zum 11.Jänner 23:59
+![img](img/primseite.jpg)
 
-## Beurteilungstage 13. und 14. Jänner
+## Beurteilung
 
-Abgabegespräche Thema Pulse Website sowie "erste website"
+- 1 schriftliche PLÜ in der Schule (Labor)
+- 1 Projekt Abgabe bis Ende Mai (31.5. 23:59)
+- 1 Hausübungen
 
-### 13 jänner
-
-hattinger, garcia, hahna, simons, zhu, omari, reindl
-dawoud, helli, prinz weghuber, peker mambetaliva, wieneritsch
-
-### 14 jänner
-
-dzt. noch keine Meldungen
-
-## 2024-12-02
-
-## 2024-10-21
-
-- Ordnung und Ordner-Namen im Repo
-- haben wir css diner gemacht?
-- <a> und <img> tags -> springen im Dokument
-- listen ul ol dl
-- Dateiname .html
-- plf?
-- flexbox
-
-## 2024-10-16
-
-- check repos / git
-- live server
-- formatting
-- git config --global user.name 'Maxi Meyer'
-- git config --global user.email '<me@example.com>'
-- Issue referenzieren in commit-message zB. #1
-
-### Inhalt
-
-- html basics folie schnell
-
-## 2024-10-14
-
-### HÜ
-
-- Website 'über mich' (o.Ä.) mit semantic html
-- code formatiert!!
-- w3c conform
-
-### Inhalt
-
-- vscode intro
-- html + semantic tags <https://www.semrush.com/blog/semantic-html5-guide/>
+Jeder Teilbereich wird mit 1/3 Punktezahl gewertet.
