@@ -2,6 +2,10 @@
 
 ## PLÜ 3. Juni / Abgabe: 31.5.2025
 
+## 2. HÜ bis 25.3. eine Kata von
+
+<https://sammancoaching.org/kata_descriptions/index.html>
+
 ## Erfordernisse für das Abgabe-Projekt
 
 Entwickeln Sie eine Webapplikation welche folgende Minimalanforderugen umfasst:
@@ -40,3 +44,5 @@ für diesen Zweck verfügbar ist und laden Sie das Video ebenso in ihr Repositor
 - 1 Hausübungen
 
 Jeder Teilbereich wird mit 1/3 Punktezahl gewertet.
+50% erforderlich für positiv, dh. ein teilbereich *kann*
+negativ sein.
