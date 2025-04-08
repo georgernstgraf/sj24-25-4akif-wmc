@@ -1,0 +1,125 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...",
+            "correct_answer": "Year",
+            "incorrect_answers": [
+                "Four Years",
+                "Two Years",
+                "Eight Years"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Unix Time is defined as the number of seconds that have elapsed since when?",
+            "correct_answer": "Midnight, January 1, 1970",
+            "incorrect_answers": [
+                "Midnight, July 4, 1976",
+                "Midnight on the creator of Unix&#039;s birthday",
+                "Midnight, July 4, 1980"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?",
+            "correct_answer": "&lt;marquee&gt;&lt;/marquee&gt;",
+            "incorrect_answers": [
+                "&lt;scroll&gt;&lt;/scroll&gt;",
+                "&lt;move&gt;&lt;/move&gt;",
+                "&lt;slide&gt;&lt;/slide&gt;"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "What was the first commerically available computer processor?",
+            "correct_answer": "Intel 4004",
+            "incorrect_answers": [
+                "Intel 486SX",
+                "TMS 1000",
+                "AMD AM386"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "On which computer hardware device is the BIOS chip located?",
+            "correct_answer": "Motherboard",
+            "incorrect_answers": [
+                "Hard Disk Drive",
+                "Central Processing Unit",
+                "Graphics Processing Unit"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Approximately how many Apple I personal computers were created?",
+            "correct_answer": "200",
+            "incorrect_answers": [
+                "100",
+                "500",
+                "1000"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "What does the acronym CDN stand for in terms of networking?",
+            "correct_answer": "Content Delivery Network",
+            "incorrect_answers": [
+                "Content Distribution Network",
+                "Computational Data Network",
+                "Compressed Data Network"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "What five letter word is the motto of the IBM Computer company?",
+            "correct_answer": "Think",
+            "incorrect_answers": [
+                "Click",
+                "Logic",
+                "Pixel"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Which internet company began life as an online bookstore called &#039;Cadabra&#039;?",
+            "correct_answer": "Amazon",
+            "incorrect_answers": [
+                "eBay",
+                "Overstock",
+                "Shopify"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "In programming, the ternary operator is mostly defined with what symbol(s)?",
+            "correct_answer": "?:",
+            "incorrect_answers": [
+                "??",
+                "if then",
+                "?"
+            ]
+        }
+    ]
+}
