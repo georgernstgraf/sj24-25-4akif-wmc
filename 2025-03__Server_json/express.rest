@@ -1,0 +1,15 @@
+###
+GET http://localhost:3000/
+###
+GET http://localhost:3000/student
+###
+GET http://localhost:3000/params?key=value&key2=value2
+###
+POST http://localhost:3000/params
+Content-Type: application/json
+
+{
+  "key": "value",
+  "key2": "value2"
+}
+###

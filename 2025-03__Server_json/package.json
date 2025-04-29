@@ -1,0 +1,17 @@
+{
+  "name": "2025-03__server_json",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node --watch express.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-session": "^1.18.1",
+    "hono-session": "^1.2.0"
+  }
+}
