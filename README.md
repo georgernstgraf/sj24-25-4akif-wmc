@@ -2,6 +2,14 @@
 
 ## PLÜ 3. Juni / Abgabe: 31.5.2025
 
+## 3. HÜ vom 6.5. bis 13.5
+
+Debugger: 3-Screenshots pro backend + frontend (Ordner mit Datum) von
+
+1) console (node / deno)
+2) Browser-devtools. Jeweils bei angehaltenem Programm, inspector der Variablen
+3) Variablen ändern!!
+
 ## 2. HÜ bis 25.3. eine Kata von
 
 <https://sammancoaching.org/kata_descriptions/index.html>
