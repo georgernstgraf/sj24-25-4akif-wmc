@@ -2,6 +2,13 @@
 
 ## PLÜ 3. Juni / Abgabe: 31.5.2025
 
+## 2025-05-13
+
+- Garcia, Wallner git
+- Abgaben im Datumsordner + sprechende Commit-MSG (Negin, )
+- cookies / localstorage
+- esbuild
+
 ## 3. HÜ vom 6.5. bis 13.5
 
 Debugger: 3-Screenshots pro backend + frontend (Ordner mit Datum) von
