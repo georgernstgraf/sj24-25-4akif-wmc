@@ -22,7 +22,21 @@ app.get(
     );
   },
 );
-
+app.get("/checkprim", (c) => {
+  const num = Number.parseInt(c.req.query("num") || "0");
+  if (isNaN(num)) {
+    return c.json({ error: "num is not a number" });
+  }
+  return c.json({ result: isPrime(num) });
+});
+app.get("/secret", (c) => c.json({ secret: Deno.env.get("SECRET") }));
+function isPrime(num: number) {
+  if (num <= 1) return false;
+  for (let i = 2; i <= Math.sqrt(num); i++) {
+    if (num % i === 0) return false;
+  }
+  return true;
+}
 // serve all other static files
 app.get("*", serveStatic({ root: "./static" }));
 

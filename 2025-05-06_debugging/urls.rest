@@ -5,3 +5,8 @@ GET http://localhost:8000/index.html
 ###
 GET http://localhost:8000/style.css
 ###
+GET http://localhost:8000/checkprim?num=41
+###
+GET http://localhost:8000/checkprim?num=40
+###
+GET http://localhost:8000/secret
