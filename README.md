@@ -1,6 +1,8 @@
 # WMC 4AKIF Sommersemester 2425
 
-## PLÜ 3. Juni / Abgabe: 31.5.2025
+## PLÜ 3. Juni / Abgabe: 7.6.2025
+
+## 2025-05-20
 
 ## 2025-05-13
 
@@ -8,6 +10,7 @@
 - Abgaben im Datumsordner + sprechende Commit-MSG (Negin, )
 - cookies / localstorage
 - esbuild
+- async / await
 
 ## 3. HÜ vom 6.5. bis 13.5
 
