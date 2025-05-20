@@ -6,8 +6,6 @@
 
 ## 2025-05-13
 
-- Garcia, Wallner git
-- Abgaben im Datumsordner + sprechende Commit-MSG (Negin, )
 - cookies / localstorage
 - esbuild
 - async / await

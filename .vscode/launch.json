@@ -1,0 +1,21 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Probe PLF",
+            "type": "node",
+            "request": "launch",
+            //  "program": "${workspaceFolder}/path/to/your/test.ts",
+            "cwd": "${workspaceFolder}/2025-05-20_Probe_PLF",
+            "runtimeExecutable": "deno",
+            "runtimeArgs": [
+                "test",
+                "--inspect-brk",
+                "--allow-read",
+                "--allow-net"
+            ],
+            "attachSimplePort": 9229,
+            "outputCapture": "std"
+        }
+    ]
+}
