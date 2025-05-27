@@ -1,5 +1,7 @@
 import bitwise from "bitwise";
-import type BitwiseType from "bitwise";
+declare global {
+    var bitwise: typeof import("bitwise");
+}
 export function add(a: number, b: number): number {
     return a + b;
 }
