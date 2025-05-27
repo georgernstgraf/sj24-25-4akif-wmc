@@ -1,0 +1,10 @@
+{
+    "tasks": {
+        "dev": "deno run --watch main.ts"
+    },
+    "imports": {
+        "@std/assert": "jsr:@std/assert@1",
+        "bitwise": "npm:bitwise@^2.2.1"
+    },
+    "fmt": { "indentWidth": 4 }
+}

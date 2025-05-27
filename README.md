@@ -1,8 +1,11 @@
 # WMC 4AKIF Sommersemester 2425
 
-## PLÜ 3. Juni / Abgabe: 7.6.2025
+## PLÜ 3. Juni / Abgabe Projekt: 7.6.2025
 
-## 2025-05-20
+## 2025-05-27 und 2025-05-20
+
+Probe PLF
+"esbuild"
 
 ## 2025-05-13
 
